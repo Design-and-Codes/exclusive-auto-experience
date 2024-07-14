@@ -1,0 +1,11 @@
+body {
+    font-family: "Antic Didone", serif;
+}
+
+h1 {
+    font-size: 7rem;
+}
+
+.hero-section__content {
+    display: flex;
+}
